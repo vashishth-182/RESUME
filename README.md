@@ -5,6 +5,12 @@ It is designed with a clean, modern UI and responsive layout for viewing on both
 
 ---
 
+## 🌐 Live Demo
+You can view the live version of my resume here:  
+[**Click to View Resume**](https://vashishth-182.github.io/RESUME/)
+
+---
+
 ## 🖥️ Technologies Used
 - **HTML5**
 - **CSS3** (with Google Fonts & Responsive Design)
@@ -28,7 +34,7 @@ It is designed with a clean, modern UI and responsive layout for viewing on both
 
 ---
 
-## 🚀 How to View
+## 🚀 How to View Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/vashishth-182/RESUME.git
