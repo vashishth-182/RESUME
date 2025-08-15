@@ -8,7 +8,7 @@ function downloadResume() {
     
     // Set the href to your local PDF file
     // Make sure the PDF file is in the same directory as your HTML file
-    link.href = 'Professional Modern CV Resume (1).pdf';
+    link.href = 'Vashishth_Prajapati_Latest_Resume.pdf.pdf';
     
     // Add the link to the document body temporarily
     document.body.appendChild(link);
